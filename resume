@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mohammad Yaseen Ali Resume">
+    <title>Mohammad Yaseen Ali - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mohammad Yaseen Ali</h1>
+        <p>Contact: +91 6388513112 | Email: <a href="mailto:yaseenaliofficial@gmail.com">yaseenaliofficial@gmail.com</a></p>
+    </header>
+    <section>
+        <h2>Career Objective</h2>
+        <p>To obtain a challenging role in a reputed organization and utilize the knowledge and skills to bring a proven track record of success in developing project and operational strategies that drive growth and innovation.</p>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>BBA</strong>, ICFAI Business School, IBS Hyderabad (2024)</li>
+            <li><strong>XII</strong>, KDMA International School (CBSE) - 2021, 84.5%</li>
+            <li><strong>X</strong>, KDMA International School (CBSE) - 2019, 72.6%</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Work Experience</h2>
+        <ul>
+            <li><strong>Team Lead - Realme India</strong> (Jan 2024 - Present)</li>
+            <li><strong>Finance Intern - Pethe Orange Growers Pvt. Ltd.</strong> (May 2023 - Aug 2023)</li>
+            <li><strong>League Operations Intern - Nodwin Gaming Pvt. Ltd.</strong> (Aug 2023 - Sept 2023)</li>
+            <!-- Add more experiences here -->
+        </ul>
+    </section>
+    <section>
+        <h2>Strengths</h2>
+        <ul>
+            <li>Team Player</li>
+            <li>Creative</li>
+            <li>Detail Oriented</li>
+            <li>Communication Skills</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Social Media Marketing</li>
+            <li>Google Ads and Analytics</li>
+            <li>MS Office</li>
+            <li>Event Planning</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Google Ads by Skill Nation - 2022</li>
+            <li>Digital Marketing by Accenture - 2023</li>
+            <li>Excel for Beginners - Great Learning - 2023</li>
+            <!-- Add more certifications -->
+        </ul>
+    </section>
+    <footer>
+        <p>© 2024 Mohammad Yaseen Ali. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
